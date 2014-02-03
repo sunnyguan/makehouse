@@ -1,6 +1,8 @@
 #Build a DIY home you can fit in your car
 This is the home of the MakeHouse project, an Open Source home, office or house extension building system that you can fit in your car.
 
+![](https://github.com/dejongh/makehouse/blob/master/MakeHouse_caravancompare.jpg)
+
 ##What problems does this system solve?
 When I started remote working I needed some office space. I used the spare room for a while but then a baby came along. Guess who got preference when it came to nap time? I looked around for a self-build office I could stick in the back garden and found lots of nice looking but incredibly expensive options. Furthermore, to insulate, waterproof and create an interior finish with these buildings was pretty much impossible given the time I had to spare -- simply because none of them came in standard sizes which means a lot of work cutting and shaping insulation and plasterboard/plywood.
 
